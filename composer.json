@@ -19,7 +19,7 @@
     "homepage": "http://gander.tools",
     "require": {
         "php": ">=5.4",
-        "symfony/serializer": "^3.0"
+        "symfony/serializer": "^8.0"
     },
     "autoload": {
         "psr-4": {
